@@ -1,0 +1,17 @@
+---
+packages:
+- project: python-daiquiri
+  tags:
+    poc--deps:
+- project: python-dateutil
+  tags:
+    poc-deps:
+- project: python-ddt
+  tags:
+    poc-deps:
+- project: python-defusedxml
+  tags:
+    poc-deps:
+- project: python-dictdiffer
+  tags:
+    poc-deps:
