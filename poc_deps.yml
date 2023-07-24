@@ -1,0 +1,32 @@
+---
+packages:
+- project: python-daiquiri
+  name: python-daiquiri
+  poc-name: python-daiquiri
+  poc-distgit: ''
+  poc-releases: ''
+  poc-patches: ''
+- project: python-dateutil
+  name: python-dateutil
+  poc-name: python-dateutil
+  poc-distgit: ''
+  poc-releases: ''
+  poc-patches: ''
+- project: python-ddt
+  name: python-ddt
+  poc-name: python-ddt
+  poc-distgit: ''
+  poc-releases: ''
+  poc-patches: ''
+- project: python-defusedxml
+  name: python-defusedxml
+  poc-name: python-defusedxml
+  poc-distgit: ''
+  poc-releases: ''
+  poc-patches: ''
+- project: python-dictdiffer
+  name: python-dictdiffer
+  poc-name: python-dictdiffer
+  poc-distgit: ''
+  poc-releases: ''
+  poc-patches: ''
